@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5em;
+    align-items: center;
+    background: #E0E1E6;
+}
+
+nav{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    color: #000000;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a:hover{
+    text-decoration: none;
+}

@@ -1,0 +1,25 @@
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 1em;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+input{
+    padding: .5em;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(179, 179, 179);
+}
+
+.lb{
+    color: #FFFFFF;
+    padding-bottom: 10px;
+}
